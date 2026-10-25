@@ -1,5 +1,5 @@
 cc_library_shared {
-    name: "libevdev",
+    name: "libevdev-c",
     vendor: true,
     srcs: [
         "libevdev/libevdev.c",
